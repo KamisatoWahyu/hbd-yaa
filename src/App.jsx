@@ -37,7 +37,7 @@ function App() {
         <p className="text-center text-sm">u i a u a i u i a u a i</p>
 
         {/* musikkk */}
-        <audio ref={audioRef} src="/audio/Section 6 - HAND HQ Ambient Theme Zenless Zone Zero 1.3.mp3" loop />
+        <audio ref={audioRef} src="/audio/uia-birthday.mp3" loop />
 
         {/* intinya yah */}
         <div className="flex flex-col justify-center items-center w-3/4 min-h-screen">
