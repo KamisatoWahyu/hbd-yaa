@@ -94,8 +94,8 @@ function App() {
             </div>
 
             <div className="flex flex-col justify-center items-center w-3/4 min-h-screen">
-              <p className="text-slate-500">kata gweh akhir semester gini harus semangat</p>
-              <p className="text-slate-500">#salamsuwasta</p>
+              <p className="text-center text-slate-500">kata gweh akhir semester gini harus semangat</p>
+              <p className="text-center text-slate-500">#salamsuwasta</p>
             </div>
 
             {/* bawah */}
