@@ -73,7 +73,8 @@ function App() {
 
             {/* inti 2 */}
             <div className="flex flex-col justify-center items-center w-3/4 min-h-screen">
-              <p className="mb-10 text-2xl font-bold">wkwkwk pilih ga sih</p>
+              <p className="text-2xl font-bold text-center">wkwkwk buka semua ga sih</p>
+              <p className="text-2xl font-bold text-center mb-10">kado onlen</p>
               <div className="grid grid-cols-3 gap-4">
                 <img
                   src={img1 ? "Deborah_Purrr.png" : "box-hadiah.png"}
