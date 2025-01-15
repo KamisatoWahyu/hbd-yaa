@@ -77,7 +77,7 @@ function App() {
               <p className="text-2xl font-bold text-center mb-10">kado onlen</p>
               <div className="grid grid-cols-3 gap-4">
                 <img
-                  src={img1 ? "Deborah_Purrr.png" : "box-hadiah.png"}
+                  src={img1 ? "hyperpigmentation.jpg" : "box-hadiah.png"}
                   alt="yes"
                   onClick={() => setImg1(true)}
                 />
